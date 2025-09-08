@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Akash",
+    "grade": "A",
+    "subject": "Math",
+    "score": 92
+  },
+  {
+    "id": 2,
+    "name": "Hamdhan",
+    "grade": "B",
+    "subject": "Science",
+    "score": 78
+  },
+  {
+    "id": 3,
+    "name": "Naveena",
+    "grade": "A",
+    "subject": "English",
+    "score": 85
+  },
+  {
+    "id": 4,
+    "name": "Bharathi",
+    "grade": "C",
+    "subject": "History",
+    "score": 67
+  },
+  {
+    "id": 5,
+    "name": "Abinesh",
+    "grade": "B",
+    "subject": "Math",
+    "score": 81
+  },
+  {
+    "id": 6,
+    "name": "Gokul",
+    "grade": "A",
+    "subject": "Science",
+    "score": 95
+  },
+  {
+    "id": 7,
+    "name": "Jenish",
+    "grade": "B",
+    "subject": "English",
+    "score": 80
+  },
+  {
+    "id": 8,
+    "name": "Kowshik",
+    "grade": "A",
+    "subject": "Math",
+    "score": 95
+  },
+  {
+    "id": 9,
+    "name": "Rahman",
+    "grade": "C",
+    "subject": "History",
+    "score": 55
+  },
+  {
+    "id": 10,
+    "name": "Ayaj",
+    "grade": "C",
+    "subject": "Social",
+    "score": 50
+  }
+]
