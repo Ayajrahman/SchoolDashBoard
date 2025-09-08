@@ -8,7 +8,7 @@ import StudentTable from "../components/StudentTable";
 import PerformanceChart from "../components/PerformanceChart";
 import studentsData from "../assets/students.json";
 
-const Dashboard = () => {
+const DashBoard = () => {
   const [students, setStudents] = useState([]);
   const [filteredStudents, setFilteredStudents] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
@@ -73,4 +73,4 @@ const Dashboard = () => {
     </div>
   );
 };
-export default Dashboard;
+export default DashBoard;
