@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from "react";
 import Header from "../components/Header";
-import Sidebar from "../components/Sidebar";
+import SideBar from "../components/SideBar";
 import SearchBar from "../components/SearchBar";
 import FilterDropdown from "../components/FilterDropdown";
 import StudentTable from "../components/StudentTable";
@@ -44,7 +44,7 @@ const DashBoard = () => {
   return (
     <div className="flex h-screen bg-gray-100 font-serif">
 
-      <Sidebar />
+      <SideBar />
       <div className="flex-1 flex flex-col">
         <Header />
         <div className="p-4 flex flex-wrap items-center justify-between gap-4">
